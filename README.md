@@ -36,7 +36,7 @@ raw_data/reviews.csv - Reviews dataset of the customer Reviews in 2016 for AirBn
 I think AirBnB's data is really interesting, it can support conclusions we already expect and help us find new ons. It was a pleaser to share the <br>
 insights I found, I did expect to see summertime more expensive but didnt to find that cleanliness is so important!
 
-This is the post I wrote about my conclusions:
+This is the post I wrote about my conclusions: <br>
 https://medium.com/@orengutman10/airbnb-in-seattle-a-quick-look-at-the-data-d9f17feb4400
 
 ## 6 Acknowledgements:
