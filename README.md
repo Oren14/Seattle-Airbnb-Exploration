@@ -1,4 +1,4 @@
-# Seattle housing market
+# Seattle vacation rentals market
 
 ## Contents
 
